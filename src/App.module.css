@@ -6,6 +6,37 @@
   background: var(--color-neutral-100);
 }
 
+.gateScreen {
+  position: relative;
+  display: grid;
+  min-height: 100vh;
+  min-height: 100svh;
+  place-items: center;
+  padding: 40px 24px 88px;
+  background: var(--color-neutral-100);
+}
+
+.gatePanel {
+  width: min(100%, 400px);
+  padding: 0 0 0 28px;
+  border-left: 2px solid var(--color-primary);
+  animation: chart-reveal 300ms ease-in-out both;
+}
+
+.gateWordmark { margin-bottom: 58px; }
+.gateTitle { margin: 0; font-size: 2.5rem; font-weight: 700; line-height: 1.08; }
+.gateTitle em { color: var(--color-primary); font-style: normal; }
+
+.gateForm { display: grid; gap: 10px; margin-top: 42px; }
+.gateForm label { color: var(--color-text-secondary); font-size: 0.6875rem; font-weight: 600; }
+.gateForm input { width: 100%; min-height: 46px; padding: 10px 12px; border: 1px solid #bcb5aa; border-radius: 0; background: var(--color-surface); color: var(--color-text-primary); }
+.gateForm input:focus { border-color: var(--color-primary); }
+.gateForm button { min-height: 44px; margin-top: 6px; border: 1px solid var(--color-primary); background: var(--color-primary); color: var(--color-surface); font-size: 0.875rem; font-weight: 600; cursor: pointer; transition: background 280ms ease-in-out, border-color 280ms ease-in-out; }
+.gateForm button:hover { border-color: var(--color-primary-hover); background: var(--color-primary-hover); }
+.gateError { margin: 3px 0 0; color: var(--color-accent); font-size: 0.8125rem; line-height: 1.5; }
+.gateFooter { position: absolute; bottom: 28px; display: flex; align-items: center; gap: 10px; color: var(--color-text-secondary); font-size: 0.625rem; font-weight: 600; }
+.gateFooter i { width: 3px; height: 3px; border-radius: 50%; background: var(--color-accent); }
+
 .masthead {
   min-height: 64px;
   display: flex;

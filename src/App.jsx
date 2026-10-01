@@ -25,6 +25,8 @@ import styles from './App.module.css'
 
 const YEARS = [2019, 2020, 2021, 2022, 2023]
 const REGIONS = ['Region A', 'Region B', 'Region C', 'Region D']
+const ACCESS_KEY = 'weather-in-season-approved'
+const ACCESS_PASSWORD = 'protogen2026'
 const WEATHER = {
   rainfall: { label: 'Rainfall', unit: 'mm', field: 'rainfall_mm', color: '#457b9d', Icon: Drop },
   temperature: { label: 'Temperature', unit: '°C', field: 'avg_temp_c', color: '#b74b39', Icon: Thermometer },
@@ -107,10 +109,60 @@ function WeatherDot({ cx, cy, fill }) {
 }
 
 function App() {
+  const [isAuthorized, setIsAuthorized] = useState(() => (
+    sessionStorage.getItem(ACCESS_KEY) === 'true'
+  ))
+  const [password, setPassword] = useState('')
+  const [passwordError, setPasswordError] = useState('')
   const [startYear, setStartYear] = useState(2019)
   const [endYear, setEndYear] = useState(2023)
   const [selectedRegions, setSelectedRegions] = useState(REGIONS)
   const [weatherKey, setWeatherKey] = useState('rainfall')
+
+  function submitPassword(event) {
+    event.preventDefault()
+
+    if (password === ACCESS_PASSWORD) {
+      sessionStorage.setItem(ACCESS_KEY, 'true')
+      setIsAuthorized(true)
+      return
+    }
+
+    setPasswordError('That password is not right. Try again.')
+  }
+
+  if (!isAuthorized) {
+    return (
+      <main className={styles.gateScreen}>
+        <section className={styles.gatePanel} aria-labelledby="gate-title">
+          <a className={`${styles.wordmark} ${styles.gateWordmark}`} href="#" aria-label="Fieldnotes Climate">
+            <span className={styles.wordmarkIcon} aria-hidden="true"><span /><span /><span /></span>
+            FIELDNOTES <span>/</span> CLIMATE
+          </a>
+          <p className={styles.kicker}><span /> PRIVATE FIELDNOTES</p>
+          <h1 className={styles.gateTitle} id="gate-title">Weather,<br /><em>in season.</em></h1>
+          <form className={styles.gateForm} onSubmit={submitPassword}>
+            <label htmlFor="story-password">PASSWORD</label>
+            <input
+              id="story-password"
+              type="password"
+              value={password}
+              autoComplete="current-password"
+              aria-describedby={passwordError ? 'password-error' : undefined}
+              onChange={(event) => {
+                setPassword(event.target.value)
+                setPasswordError('')
+              }}
+            />
+            <button type="submit">Submit</button>
+            {passwordError && <p className={styles.gateError} id="password-error" role="alert">{passwordError}</p>}
+          </form>
+        </section>
+        <span className={styles.gateFooter}>A DATA STORY <i /> 2019—2023</span>
+      </main>
+    )
+  }
+
   const weather = WEATHER[weatherKey]
 
   const filteredRecords = harvest.filter((record) => (
