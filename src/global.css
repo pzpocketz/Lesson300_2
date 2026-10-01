@@ -1,0 +1,75 @@
+:root {
+  font-family: 'Inter', sans-serif;
+  color: #1c1917;
+  background: #f8f5f0;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-optical-sizing: auto;
+  font-weight: 400;
+
+  --color-primary: #2d6a4f;
+  --color-primary-hover: #1b4332;
+  --color-accent: #c63d35;
+  --color-weather: #457b9d;
+  --color-neutral-100: #f8f5f0;
+  --color-neutral-200: #e9e4dc;
+  --color-surface: #fff;
+  --color-text-primary: #1c1917;
+  --color-text-secondary: #625e58;
+  --color-success: #40916c;
+  --color-warning: #e9c46a;
+  --space-1: 8px;
+  --space-2: 16px;
+  --space-3: 24px;
+  --space-4: 32px;
+  --space-6: 48px;
+  --space-8: 64px;
+  --space-12: 96px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  min-width: 320px;
+  margin: 0;
+}
+
+button,
+input {
+  font: inherit;
+}
+
+button {
+  color: inherit;
+}
+
+button:focus-visible,
+a:focus-visible,
+input:focus-visible {
+  outline: 3px solid var(--color-weather);
+  outline-offset: 3px;
+}
+
+::selection {
+  color: var(--color-surface);
+  background: var(--color-primary);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

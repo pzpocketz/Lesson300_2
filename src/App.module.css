@@ -1,0 +1,286 @@
+.page {
+  --content-width: 1184px;
+  --chart-height: 320px;
+  width: 100%;
+  overflow: hidden;
+  background: var(--color-neutral-100);
+}
+
+.masthead {
+  min-height: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  padding: 0 max(32px, calc((100vw - var(--content-width)) / 2));
+  border-bottom: 1px solid var(--color-neutral-200);
+  background: rgba(248, 245, 240, 0.96);
+}
+
+.wordmark,
+.edition,
+.nav,
+.heroFooter,
+.kicker,
+.chapterNumber,
+.unitTag,
+.controls legend,
+.weatherChoices button,
+.sparkSection h3,
+.backToTop,
+.footer {
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0;
+}
+
+.wordmark {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--color-text-primary);
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.wordmark > span:not(.wordmarkIcon) { color: var(--color-text-secondary); }
+
+.wordmarkIcon {
+  display: inline-flex;
+  align-items: end;
+  gap: 2px;
+  height: 16px;
+  padding-right: 4px;
+}
+
+.wordmarkIcon span {
+  width: 3px;
+  border-radius: 2px 2px 0 0;
+  background: var(--color-primary);
+}
+
+.wordmarkIcon span:nth-child(1) { height: 7px; }
+.wordmarkIcon span:nth-child(2) { height: 12px; }
+.wordmarkIcon span:nth-child(3) { height: 16px; }
+
+.nav { display: flex; align-items: center; gap: 28px; }
+.nav a { color: var(--color-text-secondary); text-decoration: none; transition: color 280ms ease-in-out; }
+.nav a:hover { color: var(--color-primary); }
+.edition { color: var(--color-text-secondary); white-space: nowrap; }
+.edition b { margin-left: 8px; color: var(--color-primary); }
+
+.hero {
+  position: relative;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 290px;
+  align-items: center;
+  gap: clamp(40px, 8vw, 128px);
+  max-width: var(--content-width);
+  min-height: 520px;
+  margin: 0 auto;
+  padding: 72px 32px 104px;
+}
+
+.heroCopy { max-width: 740px; }
+.kicker { display: flex; align-items: center; gap: 9px; margin: 0 0 18px; color: var(--color-primary); }
+.kicker > span { width: 20px; height: 2px; background: var(--color-accent); }
+
+.hero h1 {
+  margin: 0;
+  font-size: clamp(2.4rem, 2.8rem, 2.8rem);
+  line-height: 1.08;
+  font-weight: 700;
+}
+
+.hero h1 em { color: var(--color-primary); font-style: normal; }
+.deck { max-width: 540px; margin: 24px 0 0; color: var(--color-text-secondary); font-size: 1.0625rem; line-height: 1.7; }
+
+.storyLink {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  margin-top: 30px;
+  padding: 0 0 7px;
+  border-bottom: 1px solid var(--color-primary);
+  color: var(--color-primary-hover);
+  font-size: 0.875rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.heroStat {
+  position: relative;
+  align-self: center;
+  padding: 24px 0 22px 22px;
+  border-left: 2px solid var(--color-accent);
+}
+
+.statLabel { display: block; color: var(--color-text-secondary); font-size: 0.6875rem; font-weight: 600; line-height: 1.5; }
+.heroStat strong { display: block; margin-top: 13px; color: var(--color-accent); font-size: 4.25rem; font-weight: 600; line-height: 1; }
+.heroStat strong small { font-size: 2rem; vertical-align: 15px; }
+.heroStat p { max-width: 220px; margin: 14px 0 24px; color: var(--color-text-primary); font-size: 0.9375rem; line-height: 1.55; }
+.statFoot { display: flex; gap: 7px; align-items: flex-start; color: var(--color-text-secondary); font-size: 0.6875rem; line-height: 1.5; }
+.statFoot svg { flex: 0 0 auto; color: var(--color-accent); }
+
+.heroFooter {
+  position: absolute;
+  right: 32px;
+  bottom: 28px;
+  left: 32px;
+  display: flex;
+  justify-content: space-between;
+  color: var(--color-text-secondary);
+  font-size: 0.6875rem;
+}
+
+.heroFooter > span,
+.heroFooter a { display: flex; align-items: center; gap: 10px; }
+.heroFooter i { width: 3px; height: 3px; border-radius: 50%; background: var(--color-accent); }
+.heroFooter a { color: var(--color-primary); text-decoration: none; }
+
+.chapter {
+  max-width: var(--content-width);
+  margin: 0 auto;
+  padding: 86px 32px 96px;
+  border-top: 1px solid var(--color-neutral-200);
+}
+
+.weatherChapter { max-width: none; padding-right: max(32px, calc((100vw - var(--content-width)) / 2)); padding-left: max(32px, calc((100vw - var(--content-width)) / 2)); background: #f0ede6; }
+.chapterHead { display: grid; grid-template-columns: 118px minmax(0, 1fr); gap: 22px; max-width: 840px; margin-bottom: 42px; }
+.chapterNumber { padding-top: 3px; color: var(--color-primary); font-size: 0.8125rem; }
+.chapterNumber span { color: #858078; }
+.chapterHead .kicker { margin: 0 0 12px; }
+.chapter h2 { margin: 0; font-size: 1.75rem; font-weight: 700; line-height: 1.2; }
+.chapterIntro { max-width: 600px; margin: 14px 0 0; color: var(--color-text-secondary); font-size: 1rem; line-height: 1.7; }
+
+.chartFigure,
+.regionBars { margin: 0; }
+.chartHeading { display: flex; justify-content: space-between; align-items: baseline; gap: 16px; margin-bottom: 12px; color: var(--color-text-primary); font-size: 0.9375rem; font-weight: 600; }
+.chartHeading small { margin-left: 8px; color: var(--color-text-secondary); font-size: 0.75rem; font-weight: 400; }
+.unitTag { color: var(--color-text-secondary); font-size: 0.625rem; white-space: nowrap; }
+.chartWrap { width: 100%; height: var(--chart-height); min-width: 0; animation: chart-reveal 300ms ease-in-out both; }
+.chartSummary { margin: 13px 0 0; color: var(--color-text-secondary); font-size: 0.75rem; line-height: 1.6; }
+
+.controls {
+  display: grid;
+  grid-template-columns: minmax(190px, 0.95fr) minmax(220px, 1.1fr) minmax(330px, 1.5fr);
+  gap: 24px;
+  align-items: start;
+  margin: 0 0 34px;
+  padding: 20px 0;
+  border-top: 1px solid #d9d3c9;
+  border-bottom: 1px solid #d9d3c9;
+}
+
+.controls fieldset { min-width: 0; margin: 0; padding: 0; border: 0; }
+.controls legend { display: flex; align-items: center; justify-content: space-between; width: 100%; margin-bottom: 14px; color: var(--color-text-secondary); font-size: 0.625rem; }
+.controls legend span { color: var(--color-primary); }
+.yearControl label { display: grid; grid-template-columns: 76px 1fr; align-items: center; gap: 10px; margin: 9px 0; color: var(--color-text-primary); font-size: 0.75rem; }
+.yearControl input { width: 100%; accent-color: var(--color-primary); cursor: pointer; }
+.regionChoices { display: flex; flex-wrap: wrap; gap: 8px; }
+.regionChoice { display: inline-flex; align-items: center; gap: 7px; min-height: 32px; padding: 5px 9px; border: 1px solid #d7d1c7; color: var(--color-text-secondary); font-size: 0.75rem; cursor: pointer; transition: background 280ms ease-in-out, border-color 280ms ease-in-out, color 280ms ease-in-out; }
+.regionChoice input { position: absolute; width: 1px; height: 1px; opacity: 0; }
+.regionChoice:focus-within { outline: 3px solid var(--color-weather); outline-offset: 2px; }
+.regionSelected { border-color: var(--color-primary); color: var(--color-text-primary); background: rgba(255, 255, 255, 0.58); }
+.regionMark { width: 7px; height: 7px; border-radius: 50%; background: var(--region-color); }
+.weatherChoices { display: flex; flex-wrap: wrap; gap: 6px; }
+.weatherChoices button { display: inline-flex; align-items: center; gap: 7px; min-height: 34px; padding: 6px 9px; border: 1px solid transparent; background: transparent; color: var(--color-text-secondary); font-size: 0.75rem; cursor: pointer; transition: background 280ms ease-in-out, color 280ms ease-in-out; }
+.weatherChoices button:hover { color: var(--color-primary-hover); }
+.weatherChoices button.weatherActive { border-color: #d7d1c7; background: #fff; color: var(--color-primary-hover); }
+
+.legend { display: flex; gap: 22px; margin: 0 0 4px 3px; color: var(--color-text-primary); font-size: 0.75rem; }
+.legend span { display: inline-flex; align-items: center; gap: 7px; }
+.legend small { color: var(--color-text-secondary); }
+.yieldKey,
+.weatherKey { display: inline-block; width: 18px; height: 0; border-top: 2px solid var(--color-primary); }
+.weatherKey { border-top-style: dashed; }
+.tooltip { display: grid; gap: 7px; min-width: 160px; padding: 12px 14px; border: 1px solid var(--color-neutral-200); background: var(--color-surface); box-shadow: 0 5px 18px rgba(28, 25, 23, 0.08); color: var(--color-text-primary); font-size: 0.75rem; }
+.tooltip strong { margin-bottom: 2px; }
+.tooltip span { display: flex; gap: 7px; align-items: center; }
+.tooltip i { width: 12px; border-top: 2px solid var(--color-primary); }
+.tooltip i.weatherKey { border-top: 2px dashed var(--color-weather); }
+.tooltip em { color: var(--color-accent); font-size: 0.6875rem; font-style: normal; }
+.srOnly { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
+
+.regionChartGrid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 0.8fr); gap: 64px; align-items: start; }
+.sparkSection h3 { display: flex; justify-content: space-between; gap: 16px; margin: 0 0 18px; padding-bottom: 12px; border-bottom: 1px solid var(--color-neutral-200); font-size: 0.875rem; }
+.sparkSection h3 span { align-self: center; color: var(--color-text-secondary); font-size: 0.625rem; }
+.sparkRow { display: grid; grid-template-columns: 72px minmax(60px, 1fr) 56px; gap: 12px; align-items: center; min-height: 52px; border-bottom: 1px solid var(--color-neutral-200); color: var(--color-text-primary); font-size: 0.75rem; }
+.sparkChart { width: 100%; height: 38px; }
+.sparkValue { text-align: right; color: var(--color-text-secondary); font-size: 0.6875rem; font-variant-numeric: tabular-nums; }
+.insightLine { display: grid; grid-template-columns: 38px minmax(0, 1fr); gap: 14px; align-items: start; max-width: 770px; margin: 44px auto 0; padding-top: 22px; border-top: 1px solid var(--color-neutral-200); }
+.insightIcon { display: grid; width: 34px; height: 34px; place-items: center; border: 1px solid #d6a49d; color: var(--color-accent); }
+.insightLine p { margin: 3px 0 0; color: var(--color-text-secondary); font-size: 0.9375rem; line-height: 1.7; }
+.insightLine strong { color: var(--color-text-primary); }
+
+.takeaway { padding-bottom: 72px; }
+.takeawayBody { display: grid; grid-template-columns: 1fr 1fr; gap: 64px; max-width: 960px; margin: 44px auto 32px; padding: 26px 0 32px; border-top: 1px solid var(--color-neutral-200); border-bottom: 1px solid var(--color-neutral-200); }
+.takeawayStatement { display: grid; grid-template-columns: 24px 1fr; gap: 16px; color: var(--color-primary); }
+.takeawayStatement p { max-width: 360px; margin: 0; color: var(--color-primary-hover); font-size: 1.375rem; font-weight: 600; line-height: 1.35; }
+.takeawayCopy p { margin: 0 0 16px; color: var(--color-text-secondary); font-size: 0.875rem; line-height: 1.75; }
+.dataNote { display: block; padding-top: 4px; color: var(--color-primary); font-size: 0.75rem; }
+.backToTop { display: inline-flex; align-items: center; gap: 10px; color: var(--color-primary); text-decoration: none; }
+.footer { display: flex; justify-content: space-between; gap: 20px; padding: 24px max(32px, calc((100vw - var(--content-width)) / 2)); border-top: 1px solid var(--color-neutral-200); color: var(--color-text-secondary); font-size: 0.625rem; }
+.footer i { margin: 0 5px; color: var(--color-accent); font-style: normal; }
+
+@keyframes chart-reveal {
+  from { opacity: 0.55; transform: translateY(4px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@media (max-width: 900px) {
+  .masthead { padding-right: 24px; padding-left: 24px; }
+  .nav { gap: 16px; }
+  .edition { display: none; }
+  .hero { grid-template-columns: minmax(0, 1fr) 230px; gap: 48px; padding-right: 24px; padding-left: 24px; }
+  .heroFooter { right: 24px; left: 24px; }
+  .chapter { padding-right: 24px; padding-left: 24px; }
+  .weatherChapter { padding-right: 24px; padding-left: 24px; }
+  .controls { grid-template-columns: 1fr 1fr; }
+  .weatherControl { grid-column: 1 / -1; }
+  .regionChartGrid { gap: 36px; }
+  .footer { padding-right: 24px; padding-left: 24px; }
+}
+
+@media (max-width: 640px) {
+  .masthead { min-height: 58px; flex-wrap: wrap; gap: 0; padding: 0 20px; }
+  .wordmark { min-height: 58px; }
+  .nav { order: 1; width: 100%; justify-content: space-between; gap: 10px; padding: 0 0 12px; font-size: 0.6875rem; }
+  .hero { grid-template-columns: 1fr; gap: 38px; min-height: 0; padding: 58px 20px 90px; }
+  .hero h1 { font-size: 2.4rem; }
+  .deck { font-size: 0.9375rem; }
+  .heroStat { display: grid; grid-template-columns: 1fr auto; column-gap: 18px; align-items: start; padding-top: 16px; padding-bottom: 14px; }
+  .statLabel { grid-column: 1 / -1; }
+  .heroStat strong { grid-column: 1; grid-row: 2 / span 2; font-size: 3.5rem; }
+  .heroStat strong small { font-size: 1.5rem; vertical-align: 13px; }
+  .heroStat p { grid-column: 2; grid-row: 2; max-width: 180px; margin: 9px 0; font-size: 0.8125rem; }
+  .statFoot { grid-column: 2; grid-row: 3; }
+  .heroFooter { right: 20px; bottom: 22px; left: 20px; align-items: end; font-size: 0.5625rem; }
+  .heroFooter > span { flex-wrap: wrap; max-width: 225px; gap: 6px; }
+  .heroFooter a { gap: 4px; white-space: nowrap; }
+  .chapter { padding: 62px 20px 68px; }
+  .weatherChapter { padding-right: 20px; padding-left: 20px; }
+  .chapterHead { grid-template-columns: 48px minmax(0, 1fr); gap: 12px; margin-bottom: 32px; }
+  .chapterNumber { font-size: 0.6875rem; }
+  .chapter h2 { font-size: 1.5rem; }
+  .chapterIntro { margin-top: 11px; font-size: 0.875rem; }
+  .chartHeading { align-items: start; font-size: 0.8125rem; }
+  .chartHeading small { display: block; margin: 4px 0 0; }
+  .unitTag { padding-top: 2px; font-size: 0.5625rem; }
+  .page { --chart-height: 260px; }
+  .controls { grid-template-columns: 1fr; gap: 22px; padding: 18px 0; }
+  .weatherControl { grid-column: auto; }
+  .weatherChoices { gap: 3px; }
+  .weatherChoices button { padding-right: 7px; padding-left: 7px; font-size: 0.6875rem; }
+  .legend { gap: 14px; font-size: 0.6875rem; }
+  .chartWrap :global(.recharts-cartesian-axis-tick-value) { font-size: 10px; }
+  .regionChartGrid { grid-template-columns: 1fr; gap: 42px; }
+  .sparkSection h3 { font-size: 0.8125rem; }
+  .sparkSection h3 span { font-size: 0.5625rem; }
+  .insightLine { margin-top: 32px; }
+  .insightLine p { font-size: 0.875rem; }
+  .takeawayBody { grid-template-columns: 1fr; gap: 22px; margin-top: 32px; }
+  .takeawayStatement p { font-size: 1.25rem; }
+  .footer { flex-wrap: wrap; padding: 20px; font-size: 0.5625rem; }
+  .footer span:last-child { width: 100%; }
+}

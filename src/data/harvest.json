@@ -1,0 +1,2402 @@
+[
+  {
+    "year": 2019,
+    "month": 1,
+    "region": "Region A",
+    "yield_tonnes": 150.7,
+    "rainfall_mm": 98.3,
+    "avg_temp_c": 11.1,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2019,
+    "month": 1,
+    "region": "Region B",
+    "yield_tonnes": 132,
+    "rainfall_mm": 114.4,
+    "avg_temp_c": 13.1,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2019,
+    "month": 1,
+    "region": "Region C",
+    "yield_tonnes": 141.4,
+    "rainfall_mm": 87.2,
+    "avg_temp_c": 15.1,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2019,
+    "month": 1,
+    "region": "Region D",
+    "yield_tonnes": 159.7,
+    "rainfall_mm": 128.8,
+    "avg_temp_c": 10.1,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2019,
+    "month": 2,
+    "region": "Region A",
+    "yield_tonnes": 138.7,
+    "rainfall_mm": 83.3,
+    "avg_temp_c": 11.9,
+    "drought_index": 0.3,
+    "anomaly": false
+  },
+  {
+    "year": 2019,
+    "month": 2,
+    "region": "Region B",
+    "yield_tonnes": 121.8,
+    "rainfall_mm": 97.4,
+    "avg_temp_c": 13.9,
+    "drought_index": 0.2,
+    "anomaly": false
+  },
+  {
+    "year": 2019,
+    "month": 2,
+    "region": "Region C",
+    "yield_tonnes": 130.3,
+    "rainfall_mm": 74.1,
+    "avg_temp_c": 15.9,
+    "drought_index": 0.3,
+    "anomaly": false
+  },
+  {
+    "year": 2019,
+    "month": 2,
+    "region": "Region D",
+    "yield_tonnes": 147.1,
+    "rainfall_mm": 109.2,
+    "avg_temp_c": 10.9,
+    "drought_index": 0.3,
+    "anomaly": false
+  },
+  {
+    "year": 2019,
+    "month": 3,
+    "region": "Region A",
+    "yield_tonnes": 171.1,
+    "rainfall_mm": 100.9,
+    "avg_temp_c": 15,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2019,
+    "month": 3,
+    "region": "Region B",
+    "yield_tonnes": 150.1,
+    "rainfall_mm": 117.9,
+    "avg_temp_c": 17,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2019,
+    "month": 3,
+    "region": "Region C",
+    "yield_tonnes": 160.7,
+    "rainfall_mm": 89.9,
+    "avg_temp_c": 19,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2019,
+    "month": 3,
+    "region": "Region D",
+    "yield_tonnes": 181.9,
+    "rainfall_mm": 133,
+    "avg_temp_c": 14,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2019,
+    "month": 4,
+    "region": "Region A",
+    "yield_tonnes": 223.4,
+    "rainfall_mm": 122,
+    "avg_temp_c": 19.1,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2019,
+    "month": 4,
+    "region": "Region B",
+    "yield_tonnes": 195.8,
+    "rainfall_mm": 142.2,
+    "avg_temp_c": 21.1,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2019,
+    "month": 4,
+    "region": "Region C",
+    "yield_tonnes": 209.5,
+    "rainfall_mm": 108.3,
+    "avg_temp_c": 23.1,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2019,
+    "month": 4,
+    "region": "Region D",
+    "yield_tonnes": 236.9,
+    "rainfall_mm": 160,
+    "avg_temp_c": 18.1,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2019,
+    "month": 5,
+    "region": "Region A",
+    "yield_tonnes": 275.4,
+    "rainfall_mm": 132.2,
+    "avg_temp_c": 23.1,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2019,
+    "month": 5,
+    "region": "Region B",
+    "yield_tonnes": 241.2,
+    "rainfall_mm": 153.8,
+    "avg_temp_c": 25.1,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2019,
+    "month": 5,
+    "region": "Region C",
+    "yield_tonnes": 258.3,
+    "rainfall_mm": 117.3,
+    "avg_temp_c": 27.1,
+    "drought_index": 0.3,
+    "anomaly": false
+  },
+  {
+    "year": 2019,
+    "month": 5,
+    "region": "Region D",
+    "yield_tonnes": 292.7,
+    "rainfall_mm": 174.2,
+    "avg_temp_c": 22.1,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2019,
+    "month": 6,
+    "region": "Region A",
+    "yield_tonnes": 310.3,
+    "rainfall_mm": 121.7,
+    "avg_temp_c": 26,
+    "drought_index": 0.2,
+    "anomaly": false
+  },
+  {
+    "year": 2019,
+    "month": 6,
+    "region": "Region B",
+    "yield_tonnes": 272.4,
+    "rainfall_mm": 142.3,
+    "avg_temp_c": 28,
+    "drought_index": 0.7,
+    "anomaly": false
+  },
+  {
+    "year": 2019,
+    "month": 6,
+    "region": "Region C",
+    "yield_tonnes": 291.4,
+    "rainfall_mm": 108.3,
+    "avg_temp_c": 30,
+    "drought_index": 1.2,
+    "anomaly": false
+  },
+  {
+    "year": 2019,
+    "month": 6,
+    "region": "Region D",
+    "yield_tonnes": 330.1,
+    "rainfall_mm": 160.6,
+    "avg_temp_c": 25,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2019,
+    "month": 7,
+    "region": "Region A",
+    "yield_tonnes": 334.5,
+    "rainfall_mm": 108,
+    "avg_temp_c": 28,
+    "drought_index": 0.7,
+    "anomaly": false
+  },
+  {
+    "year": 2019,
+    "month": 7,
+    "region": "Region B",
+    "yield_tonnes": 293.5,
+    "rainfall_mm": 126.1,
+    "avg_temp_c": 30,
+    "drought_index": 1.2,
+    "anomaly": false
+  },
+  {
+    "year": 2019,
+    "month": 7,
+    "region": "Region C",
+    "yield_tonnes": 314.2,
+    "rainfall_mm": 96.2,
+    "avg_temp_c": 32,
+    "drought_index": 1.6,
+    "anomaly": false
+  },
+  {
+    "year": 2019,
+    "month": 7,
+    "region": "Region D",
+    "yield_tonnes": 354.4,
+    "rainfall_mm": 141.5,
+    "avg_temp_c": 27,
+    "drought_index": 0.5,
+    "anomaly": false
+  },
+  {
+    "year": 2019,
+    "month": 8,
+    "region": "Region A",
+    "yield_tonnes": 326.8,
+    "rainfall_mm": 99.4,
+    "avg_temp_c": 27,
+    "drought_index": 0.4,
+    "anomaly": false
+  },
+  {
+    "year": 2019,
+    "month": 8,
+    "region": "Region B",
+    "yield_tonnes": 286.5,
+    "rainfall_mm": 115.8,
+    "avg_temp_c": 29,
+    "drought_index": 0.9,
+    "anomaly": false
+  },
+  {
+    "year": 2019,
+    "month": 8,
+    "region": "Region C",
+    "yield_tonnes": 306.5,
+    "rainfall_mm": 88.2,
+    "avg_temp_c": 31,
+    "drought_index": 1.4,
+    "anomaly": false
+  },
+  {
+    "year": 2019,
+    "month": 8,
+    "region": "Region D",
+    "yield_tonnes": 347.6,
+    "rainfall_mm": 131.2,
+    "avg_temp_c": 26,
+    "drought_index": 0.2,
+    "anomaly": false
+  },
+  {
+    "year": 2019,
+    "month": 9,
+    "region": "Region A",
+    "yield_tonnes": 282,
+    "rainfall_mm": 83.9,
+    "avg_temp_c": 23.9,
+    "drought_index": 0.4,
+    "anomaly": false
+  },
+  {
+    "year": 2019,
+    "month": 9,
+    "region": "Region B",
+    "yield_tonnes": 247,
+    "rainfall_mm": 97.6,
+    "avg_temp_c": 25.9,
+    "drought_index": 0.6,
+    "anomaly": false
+  },
+  {
+    "year": 2019,
+    "month": 9,
+    "region": "Region C",
+    "yield_tonnes": 264.4,
+    "rainfall_mm": 74.4,
+    "avg_temp_c": 27.9,
+    "drought_index": 1.1,
+    "anomaly": false
+  },
+  {
+    "year": 2019,
+    "month": 9,
+    "region": "Region D",
+    "yield_tonnes": 330.2,
+    "rainfall_mm": 134.2,
+    "avg_temp_c": 23.1,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2019,
+    "month": 10,
+    "region": "Region A",
+    "yield_tonnes": 262.2,
+    "rainfall_mm": 104,
+    "avg_temp_c": 20.1,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2019,
+    "month": 10,
+    "region": "Region B",
+    "yield_tonnes": 230,
+    "rainfall_mm": 121.4,
+    "avg_temp_c": 22.1,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2019,
+    "month": 10,
+    "region": "Region C",
+    "yield_tonnes": 246.2,
+    "rainfall_mm": 92.5,
+    "avg_temp_c": 24.1,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2019,
+    "month": 10,
+    "region": "Region D",
+    "yield_tonnes": 278.6,
+    "rainfall_mm": 137,
+    "avg_temp_c": 19.1,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2019,
+    "month": 11,
+    "region": "Region A",
+    "yield_tonnes": 203.2,
+    "rainfall_mm": 96.5,
+    "avg_temp_c": 16,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2019,
+    "month": 11,
+    "region": "Region B",
+    "yield_tonnes": 178.4,
+    "rainfall_mm": 112.9,
+    "avg_temp_c": 18,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2019,
+    "month": 11,
+    "region": "Region C",
+    "yield_tonnes": 190.9,
+    "rainfall_mm": 85.9,
+    "avg_temp_c": 20,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2019,
+    "month": 11,
+    "region": "Region D",
+    "yield_tonnes": 215.5,
+    "rainfall_mm": 126.6,
+    "avg_temp_c": 15,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2019,
+    "month": 12,
+    "region": "Region A",
+    "yield_tonnes": 173.5,
+    "rainfall_mm": 98.4,
+    "avg_temp_c": 13.1,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2019,
+    "month": 12,
+    "region": "Region B",
+    "yield_tonnes": 151.9,
+    "rainfall_mm": 114.6,
+    "avg_temp_c": 15.1,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2019,
+    "month": 12,
+    "region": "Region C",
+    "yield_tonnes": 162.7,
+    "rainfall_mm": 87.4,
+    "avg_temp_c": 17.1,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2019,
+    "month": 12,
+    "region": "Region D",
+    "yield_tonnes": 183.8,
+    "rainfall_mm": 128.9,
+    "avg_temp_c": 12.1,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "region": "Region A",
+    "yield_tonnes": 169.3,
+    "rainfall_mm": 108.2,
+    "avg_temp_c": 11.3,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "region": "Region B",
+    "yield_tonnes": 145.7,
+    "rainfall_mm": 125.9,
+    "avg_temp_c": 13.3,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "region": "Region C",
+    "yield_tonnes": 160.2,
+    "rainfall_mm": 96,
+    "avg_temp_c": 15.3,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "region": "Region D",
+    "yield_tonnes": 178.3,
+    "rainfall_mm": 142.5,
+    "avg_temp_c": 10.3,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "region": "Region A",
+    "yield_tonnes": 155.7,
+    "rainfall_mm": 91.4,
+    "avg_temp_c": 12.1,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "region": "Region B",
+    "yield_tonnes": 134.3,
+    "rainfall_mm": 106.9,
+    "avg_temp_c": 14.1,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "region": "Region C",
+    "yield_tonnes": 147.5,
+    "rainfall_mm": 81.4,
+    "avg_temp_c": 16.1,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "region": "Region D",
+    "yield_tonnes": 164.1,
+    "rainfall_mm": 120.7,
+    "avg_temp_c": 11.1,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "region": "Region A",
+    "yield_tonnes": 197,
+    "rainfall_mm": 116.6,
+    "avg_temp_c": 15.2,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "region": "Region B",
+    "yield_tonnes": 169.7,
+    "rainfall_mm": 136.2,
+    "avg_temp_c": 17.2,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "region": "Region C",
+    "yield_tonnes": 186.7,
+    "rainfall_mm": 103.8,
+    "avg_temp_c": 19.2,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "region": "Region D",
+    "yield_tonnes": 206.9,
+    "rainfall_mm": 152.8,
+    "avg_temp_c": 14.2,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "region": "Region A",
+    "yield_tonnes": 259.3,
+    "rainfall_mm": 143,
+    "avg_temp_c": 19.3,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "region": "Region B",
+    "yield_tonnes": 223.2,
+    "rainfall_mm": 166.7,
+    "avg_temp_c": 21.3,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "region": "Region C",
+    "yield_tonnes": 245.3,
+    "rainfall_mm": 126.9,
+    "avg_temp_c": 23.3,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "region": "Region D",
+    "yield_tonnes": 273.3,
+    "rainfall_mm": 188.7,
+    "avg_temp_c": 18.3,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "region": "Region A",
+    "yield_tonnes": 304.3,
+    "rainfall_mm": 140.7,
+    "avg_temp_c": 23.2,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "region": "Region B",
+    "yield_tonnes": 261.8,
+    "rainfall_mm": 163.8,
+    "avg_temp_c": 25.2,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "region": "Region C",
+    "yield_tonnes": 287.9,
+    "rainfall_mm": 124.9,
+    "avg_temp_c": 27.2,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "region": "Region D",
+    "yield_tonnes": 319.6,
+    "rainfall_mm": 184.3,
+    "avg_temp_c": 22.2,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "region": "Region A",
+    "yield_tonnes": 360.5,
+    "rainfall_mm": 143,
+    "avg_temp_c": 26.3,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "region": "Region B",
+    "yield_tonnes": 310.8,
+    "rainfall_mm": 167.3,
+    "avg_temp_c": 28.3,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "region": "Region C",
+    "yield_tonnes": 341.6,
+    "rainfall_mm": 127.3,
+    "avg_temp_c": 30.3,
+    "drought_index": 0.4,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "region": "Region D",
+    "yield_tonnes": 378.8,
+    "rainfall_mm": 187.7,
+    "avg_temp_c": 25.3,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 7,
+    "region": "Region A",
+    "yield_tonnes": 360.2,
+    "rainfall_mm": 108.9,
+    "avg_temp_c": 28,
+    "drought_index": 0.6,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 7,
+    "region": "Region B",
+    "yield_tonnes": 310.3,
+    "rainfall_mm": 127.2,
+    "avg_temp_c": 30,
+    "drought_index": 1,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 7,
+    "region": "Region C",
+    "yield_tonnes": 341.3,
+    "rainfall_mm": 97,
+    "avg_temp_c": 32,
+    "drought_index": 1.5,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 7,
+    "region": "Region D",
+    "yield_tonnes": 379.4,
+    "rainfall_mm": 143.6,
+    "avg_temp_c": 27,
+    "drought_index": 0.3,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 8,
+    "region": "Region A",
+    "yield_tonnes": 376.3,
+    "rainfall_mm": 114.8,
+    "avg_temp_c": 27.2,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 8,
+    "region": "Region B",
+    "yield_tonnes": 324,
+    "rainfall_mm": 133.8,
+    "avg_temp_c": 29.2,
+    "drought_index": 0.2,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 8,
+    "region": "Region C",
+    "yield_tonnes": 356,
+    "rainfall_mm": 101.9,
+    "avg_temp_c": 31.2,
+    "drought_index": 0.7,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 8,
+    "region": "Region D",
+    "yield_tonnes": 395.4,
+    "rainfall_mm": 150.6,
+    "avg_temp_c": 26.2,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 9,
+    "region": "Region A",
+    "yield_tonnes": 324.9,
+    "rainfall_mm": 97.2,
+    "avg_temp_c": 24.1,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 9,
+    "region": "Region B",
+    "yield_tonnes": 279.5,
+    "rainfall_mm": 113.1,
+    "avg_temp_c": 26.1,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 9,
+    "region": "Region C",
+    "yield_tonnes": 307.4,
+    "rainfall_mm": 86.3,
+    "avg_temp_c": 28.1,
+    "drought_index": 0.5,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 9,
+    "region": "Region D",
+    "yield_tonnes": 342.3,
+    "rainfall_mm": 128.1,
+    "avg_temp_c": 23.1,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 10,
+    "region": "Region A",
+    "yield_tonnes": 281.1,
+    "rainfall_mm": 104.2,
+    "avg_temp_c": 20.1,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 10,
+    "region": "Region B",
+    "yield_tonnes": 242.2,
+    "rainfall_mm": 121.7,
+    "avg_temp_c": 22.1,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 10,
+    "region": "Region C",
+    "yield_tonnes": 266.4,
+    "rainfall_mm": 92.8,
+    "avg_temp_c": 24.1,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 10,
+    "region": "Region D",
+    "yield_tonnes": 295.2,
+    "rainfall_mm": 136.5,
+    "avg_temp_c": 19.1,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 11,
+    "region": "Region A",
+    "yield_tonnes": 223.3,
+    "rainfall_mm": 101.5,
+    "avg_temp_c": 16.1,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 11,
+    "region": "Region B",
+    "yield_tonnes": 192.5,
+    "rainfall_mm": 118.7,
+    "avg_temp_c": 18.1,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 11,
+    "region": "Region C",
+    "yield_tonnes": 211.6,
+    "rainfall_mm": 90.3,
+    "avg_temp_c": 20.1,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 11,
+    "region": "Region D",
+    "yield_tonnes": 235.3,
+    "rainfall_mm": 134,
+    "avg_temp_c": 15.1,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 12,
+    "region": "Region A",
+    "yield_tonnes": 186.1,
+    "rainfall_mm": 98.9,
+    "avg_temp_c": 13.1,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 12,
+    "region": "Region B",
+    "yield_tonnes": 160.1,
+    "rainfall_mm": 115.1,
+    "avg_temp_c": 15.1,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 12,
+    "region": "Region C",
+    "yield_tonnes": 176.1,
+    "rainfall_mm": 87.8,
+    "avg_temp_c": 17.1,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2020,
+    "month": 12,
+    "region": "Region D",
+    "yield_tonnes": 196,
+    "rainfall_mm": 130.4,
+    "avg_temp_c": 12.1,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2021,
+    "month": 1,
+    "region": "Region A",
+    "yield_tonnes": 111,
+    "rainfall_mm": 52.9,
+    "avg_temp_c": 11.3,
+    "drought_index": 3,
+    "anomaly": true
+  },
+  {
+    "year": 2021,
+    "month": 1,
+    "region": "Region B",
+    "yield_tonnes": 114.5,
+    "rainfall_mm": 61.6,
+    "avg_temp_c": 13.3,
+    "drought_index": 2.5,
+    "anomaly": false
+  },
+  {
+    "year": 2021,
+    "month": 1,
+    "region": "Region C",
+    "yield_tonnes": 108.5,
+    "rainfall_mm": 46.9,
+    "avg_temp_c": 15.3,
+    "drought_index": 3.4,
+    "anomaly": true
+  },
+  {
+    "year": 2021,
+    "month": 1,
+    "region": "Region D",
+    "yield_tonnes": 141.7,
+    "rainfall_mm": 69.8,
+    "avg_temp_c": 10.3,
+    "drought_index": 2.6,
+    "anomaly": false
+  },
+  {
+    "year": 2021,
+    "month": 2,
+    "region": "Region A",
+    "yield_tonnes": 109.9,
+    "rainfall_mm": 51.8,
+    "avg_temp_c": 12.3,
+    "drought_index": 3,
+    "anomaly": true
+  },
+  {
+    "year": 2021,
+    "month": 2,
+    "region": "Region B",
+    "yield_tonnes": 113.4,
+    "rainfall_mm": 60.5,
+    "avg_temp_c": 14.3,
+    "drought_index": 2.4,
+    "anomaly": false
+  },
+  {
+    "year": 2021,
+    "month": 2,
+    "region": "Region C",
+    "yield_tonnes": 107.6,
+    "rainfall_mm": 46.1,
+    "avg_temp_c": 16.3,
+    "drought_index": 3.4,
+    "anomaly": true
+  },
+  {
+    "year": 2021,
+    "month": 2,
+    "region": "Region D",
+    "yield_tonnes": 140.1,
+    "rainfall_mm": 68.3,
+    "avg_temp_c": 11.3,
+    "drought_index": 2.6,
+    "anomaly": false
+  },
+  {
+    "year": 2021,
+    "month": 3,
+    "region": "Region A",
+    "yield_tonnes": 142.3,
+    "rainfall_mm": 68.6,
+    "avg_temp_c": 15.5,
+    "drought_index": 2.6,
+    "anomaly": false
+  },
+  {
+    "year": 2021,
+    "month": 3,
+    "region": "Region B",
+    "yield_tonnes": 146.7,
+    "rainfall_mm": 80.2,
+    "avg_temp_c": 17.5,
+    "drought_index": 2.1,
+    "anomaly": false
+  },
+  {
+    "year": 2021,
+    "month": 3,
+    "region": "Region C",
+    "yield_tonnes": 139.5,
+    "rainfall_mm": 61.1,
+    "avg_temp_c": 19.5,
+    "drought_index": 3,
+    "anomaly": false
+  },
+  {
+    "year": 2021,
+    "month": 3,
+    "region": "Region D",
+    "yield_tonnes": 180.8,
+    "rainfall_mm": 90,
+    "avg_temp_c": 14.5,
+    "drought_index": 2.3,
+    "anomaly": false
+  },
+  {
+    "year": 2021,
+    "month": 4,
+    "region": "Region A",
+    "yield_tonnes": 180.8,
+    "rainfall_mm": 78.6,
+    "avg_temp_c": 19.5,
+    "drought_index": 2.7,
+    "anomaly": false
+  },
+  {
+    "year": 2021,
+    "month": 4,
+    "region": "Region B",
+    "yield_tonnes": 185.9,
+    "rainfall_mm": 91.5,
+    "avg_temp_c": 21.5,
+    "drought_index": 2.1,
+    "anomaly": false
+  },
+  {
+    "year": 2021,
+    "month": 4,
+    "region": "Region C",
+    "yield_tonnes": 176.9,
+    "rainfall_mm": 69.7,
+    "avg_temp_c": 23.5,
+    "drought_index": 3,
+    "anomaly": false
+  },
+  {
+    "year": 2021,
+    "month": 4,
+    "region": "Region D",
+    "yield_tonnes": 230.2,
+    "rainfall_mm": 103.5,
+    "avg_temp_c": 18.5,
+    "drought_index": 2.3,
+    "anomaly": false
+  },
+  {
+    "year": 2021,
+    "month": 5,
+    "region": "Region A",
+    "yield_tonnes": 213.6,
+    "rainfall_mm": 78.6,
+    "avg_temp_c": 23.4,
+    "drought_index": 2.9,
+    "anomaly": true
+  },
+  {
+    "year": 2021,
+    "month": 5,
+    "region": "Region B",
+    "yield_tonnes": 219.9,
+    "rainfall_mm": 91.6,
+    "avg_temp_c": 25.4,
+    "drought_index": 2.4,
+    "anomaly": false
+  },
+  {
+    "year": 2021,
+    "month": 5,
+    "region": "Region C",
+    "yield_tonnes": 207.2,
+    "rainfall_mm": 69.8,
+    "avg_temp_c": 27.4,
+    "drought_index": 3.8,
+    "anomaly": true
+  },
+  {
+    "year": 2021,
+    "month": 5,
+    "region": "Region D",
+    "yield_tonnes": 271.5,
+    "rainfall_mm": 103.1,
+    "avg_temp_c": 22.3,
+    "drought_index": 2.5,
+    "anomaly": false
+  },
+  {
+    "year": 2021,
+    "month": 6,
+    "region": "Region A",
+    "yield_tonnes": 251.8,
+    "rainfall_mm": 79.5,
+    "avg_temp_c": 26.4,
+    "drought_index": 3.1,
+    "anomaly": true
+  },
+  {
+    "year": 2021,
+    "month": 6,
+    "region": "Region B",
+    "yield_tonnes": 259.4,
+    "rainfall_mm": 92.8,
+    "avg_temp_c": 28.5,
+    "drought_index": 3,
+    "anomaly": false
+  },
+  {
+    "year": 2021,
+    "month": 6,
+    "region": "Region C",
+    "yield_tonnes": 243.2,
+    "rainfall_mm": 70.7,
+    "avg_temp_c": 30.5,
+    "drought_index": 4.4,
+    "anomaly": false
+  },
+  {
+    "year": 2021,
+    "month": 6,
+    "region": "Region D",
+    "yield_tonnes": 320.6,
+    "rainfall_mm": 104.1,
+    "avg_temp_c": 25.4,
+    "drought_index": 2.5,
+    "anomaly": false
+  },
+  {
+    "year": 2021,
+    "month": 7,
+    "region": "Region A",
+    "yield_tonnes": 255.5,
+    "rainfall_mm": 63.4,
+    "avg_temp_c": 28.3,
+    "drought_index": 3.8,
+    "anomaly": true
+  },
+  {
+    "year": 2021,
+    "month": 7,
+    "region": "Region B",
+    "yield_tonnes": 264.4,
+    "rainfall_mm": 74.1,
+    "avg_temp_c": 30.3,
+    "drought_index": 3.7,
+    "anomaly": false
+  },
+  {
+    "year": 2021,
+    "month": 7,
+    "region": "Region C",
+    "yield_tonnes": 246.1,
+    "rainfall_mm": 56.4,
+    "avg_temp_c": 32.3,
+    "drought_index": 5.1,
+    "anomaly": true
+  },
+  {
+    "year": 2021,
+    "month": 7,
+    "region": "Region D",
+    "yield_tonnes": 327.5,
+    "rainfall_mm": 83.7,
+    "avg_temp_c": 27.3,
+    "drought_index": 3.1,
+    "anomaly": false
+  },
+  {
+    "year": 2021,
+    "month": 8,
+    "region": "Region A",
+    "yield_tonnes": 249.6,
+    "rainfall_mm": 58,
+    "avg_temp_c": 27.3,
+    "drought_index": 3.5,
+    "anomaly": true
+  },
+  {
+    "year": 2021,
+    "month": 8,
+    "region": "Region B",
+    "yield_tonnes": 257.3,
+    "rainfall_mm": 67.5,
+    "avg_temp_c": 29.3,
+    "drought_index": 3.5,
+    "anomaly": false
+  },
+  {
+    "year": 2021,
+    "month": 8,
+    "region": "Region C",
+    "yield_tonnes": 240.2,
+    "rainfall_mm": 51.5,
+    "avg_temp_c": 31.3,
+    "drought_index": 4.8,
+    "anomaly": true
+  },
+  {
+    "year": 2021,
+    "month": 8,
+    "region": "Region D",
+    "yield_tonnes": 318.3,
+    "rainfall_mm": 76,
+    "avg_temp_c": 26.3,
+    "drought_index": 2.9,
+    "anomaly": false
+  },
+  {
+    "year": 2021,
+    "month": 9,
+    "region": "Region A",
+    "yield_tonnes": 242.3,
+    "rainfall_mm": 61.1,
+    "avg_temp_c": 24.5,
+    "drought_index": 2.7,
+    "anomaly": true
+  },
+  {
+    "year": 2021,
+    "month": 9,
+    "region": "Region B",
+    "yield_tonnes": 249,
+    "rainfall_mm": 71.3,
+    "avg_temp_c": 26.5,
+    "drought_index": 2.5,
+    "anomaly": false
+  },
+  {
+    "year": 2021,
+    "month": 9,
+    "region": "Region C",
+    "yield_tonnes": 234.4,
+    "rainfall_mm": 54.2,
+    "avg_temp_c": 28.4,
+    "drought_index": 3.9,
+    "anomaly": false
+  },
+  {
+    "year": 2021,
+    "month": 9,
+    "region": "Region D",
+    "yield_tonnes": 308.8,
+    "rainfall_mm": 80.7,
+    "avg_temp_c": 23.5,
+    "drought_index": 2.3,
+    "anomaly": false
+  },
+  {
+    "year": 2021,
+    "month": 10,
+    "region": "Region A",
+    "yield_tonnes": 194.3,
+    "rainfall_mm": 56.6,
+    "avg_temp_c": 20.3,
+    "drought_index": 3,
+    "anomaly": true
+  },
+  {
+    "year": 2021,
+    "month": 10,
+    "region": "Region B",
+    "yield_tonnes": 200.4,
+    "rainfall_mm": 66,
+    "avg_temp_c": 22.3,
+    "drought_index": 2.5,
+    "anomaly": false
+  },
+  {
+    "year": 2021,
+    "month": 10,
+    "region": "Region C",
+    "yield_tonnes": 189.9,
+    "rainfall_mm": 50.3,
+    "avg_temp_c": 24.3,
+    "drought_index": 3.4,
+    "anomaly": true
+  },
+  {
+    "year": 2021,
+    "month": 10,
+    "region": "Region D",
+    "yield_tonnes": 248,
+    "rainfall_mm": 74.8,
+    "avg_temp_c": 19.3,
+    "drought_index": 2.6,
+    "anomaly": false
+  },
+  {
+    "year": 2021,
+    "month": 11,
+    "region": "Region A",
+    "yield_tonnes": 162.3,
+    "rainfall_mm": 60.8,
+    "avg_temp_c": 16.4,
+    "drought_index": 2.8,
+    "anomaly": true
+  },
+  {
+    "year": 2021,
+    "month": 11,
+    "region": "Region B",
+    "yield_tonnes": 167.1,
+    "rainfall_mm": 70.8,
+    "avg_temp_c": 18.4,
+    "drought_index": 2.3,
+    "anomaly": false
+  },
+  {
+    "year": 2021,
+    "month": 11,
+    "region": "Region C",
+    "yield_tonnes": 158.8,
+    "rainfall_mm": 54,
+    "avg_temp_c": 20.4,
+    "drought_index": 3.2,
+    "anomaly": false
+  },
+  {
+    "year": 2021,
+    "month": 11,
+    "region": "Region D",
+    "yield_tonnes": 206.2,
+    "rainfall_mm": 79.7,
+    "avg_temp_c": 15.4,
+    "drought_index": 2.4,
+    "anomaly": false
+  },
+  {
+    "year": 2021,
+    "month": 12,
+    "region": "Region A",
+    "yield_tonnes": 134.5,
+    "rainfall_mm": 58.5,
+    "avg_temp_c": 13.4,
+    "drought_index": 2.8,
+    "anomaly": true
+  },
+  {
+    "year": 2021,
+    "month": 12,
+    "region": "Region B",
+    "yield_tonnes": 138.7,
+    "rainfall_mm": 68.4,
+    "avg_temp_c": 15.4,
+    "drought_index": 2.2,
+    "anomaly": false
+  },
+  {
+    "year": 2021,
+    "month": 12,
+    "region": "Region C",
+    "yield_tonnes": 131.8,
+    "rainfall_mm": 52.1,
+    "avg_temp_c": 17.4,
+    "drought_index": 3.1,
+    "anomaly": false
+  },
+  {
+    "year": 2021,
+    "month": 12,
+    "region": "Region D",
+    "yield_tonnes": 171,
+    "rainfall_mm": 76.7,
+    "avg_temp_c": 12.4,
+    "drought_index": 2.4,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 1,
+    "region": "Region A",
+    "yield_tonnes": 155.1,
+    "rainfall_mm": 96.9,
+    "avg_temp_c": 11.7,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 1,
+    "region": "Region B",
+    "yield_tonnes": 140.2,
+    "rainfall_mm": 113.2,
+    "avg_temp_c": 13.7,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 1,
+    "region": "Region C",
+    "yield_tonnes": 144.2,
+    "rainfall_mm": 86.3,
+    "avg_temp_c": 15.7,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 1,
+    "region": "Region D",
+    "yield_tonnes": 171.5,
+    "rainfall_mm": 127.7,
+    "avg_temp_c": 10.7,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 2,
+    "region": "Region A",
+    "yield_tonnes": 147.6,
+    "rainfall_mm": 87.9,
+    "avg_temp_c": 12.6,
+    "drought_index": 0.1,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 2,
+    "region": "Region B",
+    "yield_tonnes": 133.3,
+    "rainfall_mm": 102.5,
+    "avg_temp_c": 14.6,
+    "drought_index": 0.1,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 2,
+    "region": "Region C",
+    "yield_tonnes": 137,
+    "rainfall_mm": 78,
+    "avg_temp_c": 16.6,
+    "drought_index": 0.1,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 2,
+    "region": "Region D",
+    "yield_tonnes": 163.3,
+    "rainfall_mm": 116,
+    "avg_temp_c": 11.6,
+    "drought_index": 0.1,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 3,
+    "region": "Region A",
+    "yield_tonnes": 167.5,
+    "rainfall_mm": 89.9,
+    "avg_temp_c": 15.4,
+    "drought_index": 0.6,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 3,
+    "region": "Region B",
+    "yield_tonnes": 151.2,
+    "rainfall_mm": 104.7,
+    "avg_temp_c": 17.4,
+    "drought_index": 0.5,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 3,
+    "region": "Region C",
+    "yield_tonnes": 155.5,
+    "rainfall_mm": 79.8,
+    "avg_temp_c": 19.4,
+    "drought_index": 0.6,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 3,
+    "region": "Region D",
+    "yield_tonnes": 184.7,
+    "rainfall_mm": 117.7,
+    "avg_temp_c": 14.4,
+    "drought_index": 0.6,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "region": "Region A",
+    "yield_tonnes": 222.8,
+    "rainfall_mm": 113.1,
+    "avg_temp_c": 19.5,
+    "drought_index": 0.2,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "region": "Region B",
+    "yield_tonnes": 201.5,
+    "rainfall_mm": 132.2,
+    "avg_temp_c": 21.5,
+    "drought_index": 0.2,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "region": "Region C",
+    "yield_tonnes": 207.1,
+    "rainfall_mm": 100.6,
+    "avg_temp_c": 23.5,
+    "drought_index": 0.2,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "region": "Region D",
+    "yield_tonnes": 246.5,
+    "rainfall_mm": 149.2,
+    "avg_temp_c": 18.5,
+    "drought_index": 0.2,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 5,
+    "region": "Region A",
+    "yield_tonnes": 269.4,
+    "rainfall_mm": 117.7,
+    "avg_temp_c": 23.5,
+    "drought_index": 0.4,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 5,
+    "region": "Region B",
+    "yield_tonnes": 243.5,
+    "rainfall_mm": 137.5,
+    "avg_temp_c": 25.5,
+    "drought_index": 0.5,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 5,
+    "region": "Region C",
+    "yield_tonnes": 250.5,
+    "rainfall_mm": 104.8,
+    "avg_temp_c": 27.5,
+    "drought_index": 1,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 5,
+    "region": "Region D",
+    "yield_tonnes": 296.9,
+    "rainfall_mm": 154.2,
+    "avg_temp_c": 22.4,
+    "drought_index": 0.4,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 6,
+    "region": "Region A",
+    "yield_tonnes": 321.9,
+    "rainfall_mm": 122,
+    "avg_temp_c": 26.6,
+    "drought_index": 0.4,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 6,
+    "region": "Region B",
+    "yield_tonnes": 290.7,
+    "rainfall_mm": 142.2,
+    "avg_temp_c": 28.6,
+    "drought_index": 0.9,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 6,
+    "region": "Region C",
+    "yield_tonnes": 298.8,
+    "rainfall_mm": 108.2,
+    "avg_temp_c": 30.6,
+    "drought_index": 1.4,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 6,
+    "region": "Region D",
+    "yield_tonnes": 355.1,
+    "rainfall_mm": 160,
+    "avg_temp_c": 25.6,
+    "drought_index": 0.2,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 7,
+    "region": "Region A",
+    "yield_tonnes": 327.7,
+    "rainfall_mm": 96.4,
+    "avg_temp_c": 28.4,
+    "drought_index": 1.3,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 7,
+    "region": "Region B",
+    "yield_tonnes": 295.7,
+    "rainfall_mm": 112.2,
+    "avg_temp_c": 30.4,
+    "drought_index": 1.8,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 7,
+    "region": "Region C",
+    "yield_tonnes": 303,
+    "rainfall_mm": 85.6,
+    "avg_temp_c": 32.4,
+    "drought_index": 2.3,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 7,
+    "region": "Region D",
+    "yield_tonnes": 362.4,
+    "rainfall_mm": 127.1,
+    "avg_temp_c": 27.4,
+    "drought_index": 1,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 8,
+    "region": "Region A",
+    "yield_tonnes": 340.3,
+    "rainfall_mm": 100.3,
+    "avg_temp_c": 27.6,
+    "drought_index": 0.6,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 8,
+    "region": "Region B",
+    "yield_tonnes": 307.8,
+    "rainfall_mm": 117.3,
+    "avg_temp_c": 29.6,
+    "drought_index": 1,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 8,
+    "region": "Region C",
+    "yield_tonnes": 316.3,
+    "rainfall_mm": 89.3,
+    "avg_temp_c": 31.6,
+    "drought_index": 1.6,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 8,
+    "region": "Region D",
+    "yield_tonnes": 375.4,
+    "rainfall_mm": 131.6,
+    "avg_temp_c": 26.6,
+    "drought_index": 0.3,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 9,
+    "region": "Region A",
+    "yield_tonnes": 318.5,
+    "rainfall_mm": 99.7,
+    "avg_temp_c": 24.7,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 9,
+    "region": "Region B",
+    "yield_tonnes": 287.9,
+    "rainfall_mm": 116.4,
+    "avg_temp_c": 26.7,
+    "drought_index": 0.1,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 9,
+    "region": "Region C",
+    "yield_tonnes": 296.1,
+    "rainfall_mm": 88.8,
+    "avg_temp_c": 28.7,
+    "drought_index": 0.6,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 9,
+    "region": "Region D",
+    "yield_tonnes": 352.2,
+    "rainfall_mm": 131.4,
+    "avg_temp_c": 23.7,
+    "drought_index": 0,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 10,
+    "region": "Region A",
+    "yield_tonnes": 261.5,
+    "rainfall_mm": 96.5,
+    "avg_temp_c": 20.5,
+    "drought_index": 0.1,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 10,
+    "region": "Region B",
+    "yield_tonnes": 236,
+    "rainfall_mm": 112.3,
+    "avg_temp_c": 22.5,
+    "drought_index": 0.1,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 10,
+    "region": "Region C",
+    "yield_tonnes": 242.8,
+    "rainfall_mm": 85.6,
+    "avg_temp_c": 24.5,
+    "drought_index": 0.2,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 10,
+    "region": "Region D",
+    "yield_tonnes": 288.3,
+    "rainfall_mm": 126.3,
+    "avg_temp_c": 19.5,
+    "drought_index": 0.1,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 11,
+    "region": "Region A",
+    "yield_tonnes": 198.7,
+    "rainfall_mm": 85.8,
+    "avg_temp_c": 16.4,
+    "drought_index": 0.5,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 11,
+    "region": "Region B",
+    "yield_tonnes": 179.5,
+    "rainfall_mm": 100,
+    "avg_temp_c": 18.4,
+    "drought_index": 0.5,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 11,
+    "region": "Region C",
+    "yield_tonnes": 184.4,
+    "rainfall_mm": 76.1,
+    "avg_temp_c": 20.4,
+    "drought_index": 0.6,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 11,
+    "region": "Region D",
+    "yield_tonnes": 219.9,
+    "rainfall_mm": 113.3,
+    "avg_temp_c": 15.4,
+    "drought_index": 0.5,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 12,
+    "region": "Region A",
+    "yield_tonnes": 168.6,
+    "rainfall_mm": 86.7,
+    "avg_temp_c": 13.5,
+    "drought_index": 0.3,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 12,
+    "region": "Region B",
+    "yield_tonnes": 152.4,
+    "rainfall_mm": 101.2,
+    "avg_temp_c": 15.5,
+    "drought_index": 0.2,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 12,
+    "region": "Region C",
+    "yield_tonnes": 156.7,
+    "rainfall_mm": 77.2,
+    "avg_temp_c": 17.5,
+    "drought_index": 0.3,
+    "anomaly": false
+  },
+  {
+    "year": 2022,
+    "month": 12,
+    "region": "Region D",
+    "yield_tonnes": 186.4,
+    "rainfall_mm": 114.3,
+    "avg_temp_c": 12.5,
+    "drought_index": 0.2,
+    "anomaly": false
+  },
+  {
+    "year": 2023,
+    "month": 1,
+    "region": "Region A",
+    "yield_tonnes": 127.2,
+    "rainfall_mm": 56.6,
+    "avg_temp_c": 11.6,
+    "drought_index": 2.7,
+    "anomaly": false
+  },
+  {
+    "year": 2023,
+    "month": 1,
+    "region": "Region B",
+    "yield_tonnes": 117.4,
+    "rainfall_mm": 66.2,
+    "avg_temp_c": 13.6,
+    "drought_index": 2.2,
+    "anomaly": false
+  },
+  {
+    "year": 2023,
+    "month": 1,
+    "region": "Region C",
+    "yield_tonnes": 91.7,
+    "rainfall_mm": 50.4,
+    "avg_temp_c": 15.6,
+    "drought_index": 3,
+    "anomaly": true
+  },
+  {
+    "year": 2023,
+    "month": 1,
+    "region": "Region D",
+    "yield_tonnes": 132.8,
+    "rainfall_mm": 74.7,
+    "avg_temp_c": 10.6,
+    "drought_index": 2.3,
+    "anomaly": false
+  },
+  {
+    "year": 2023,
+    "month": 2,
+    "region": "Region A",
+    "yield_tonnes": 133.9,
+    "rainfall_mm": 62.5,
+    "avg_temp_c": 12.8,
+    "drought_index": 2.3,
+    "anomaly": false
+  },
+  {
+    "year": 2023,
+    "month": 2,
+    "region": "Region B",
+    "yield_tonnes": 123,
+    "rainfall_mm": 72.7,
+    "avg_temp_c": 14.8,
+    "drought_index": 1.9,
+    "anomaly": false
+  },
+  {
+    "year": 2023,
+    "month": 2,
+    "region": "Region C",
+    "yield_tonnes": 96.6,
+    "rainfall_mm": 55.5,
+    "avg_temp_c": 16.8,
+    "drought_index": 2.6,
+    "anomaly": true
+  },
+  {
+    "year": 2023,
+    "month": 2,
+    "region": "Region D",
+    "yield_tonnes": 139.5,
+    "rainfall_mm": 82.3,
+    "avg_temp_c": 11.8,
+    "drought_index": 2,
+    "anomaly": false
+  },
+  {
+    "year": 2023,
+    "month": 3,
+    "region": "Region A",
+    "yield_tonnes": 153.2,
+    "rainfall_mm": 65.3,
+    "avg_temp_c": 15.6,
+    "drought_index": 2.6,
+    "anomaly": false
+  },
+  {
+    "year": 2023,
+    "month": 3,
+    "region": "Region B",
+    "yield_tonnes": 141.1,
+    "rainfall_mm": 76.1,
+    "avg_temp_c": 17.6,
+    "drought_index": 2.1,
+    "anomaly": false
+  },
+  {
+    "year": 2023,
+    "month": 3,
+    "region": "Region C",
+    "yield_tonnes": 110.3,
+    "rainfall_mm": 58,
+    "avg_temp_c": 19.6,
+    "drought_index": 2.9,
+    "anomaly": true
+  },
+  {
+    "year": 2023,
+    "month": 3,
+    "region": "Region D",
+    "yield_tonnes": 159.3,
+    "rainfall_mm": 85.7,
+    "avg_temp_c": 14.6,
+    "drought_index": 2.2,
+    "anomaly": false
+  },
+  {
+    "year": 2023,
+    "month": 4,
+    "region": "Region A",
+    "yield_tonnes": 200.1,
+    "rainfall_mm": 78.9,
+    "avg_temp_c": 19.7,
+    "drought_index": 2.4,
+    "anomaly": false
+  },
+  {
+    "year": 2023,
+    "month": 4,
+    "region": "Region B",
+    "yield_tonnes": 184.3,
+    "rainfall_mm": 92.1,
+    "avg_temp_c": 21.7,
+    "drought_index": 2,
+    "anomaly": false
+  },
+  {
+    "year": 2023,
+    "month": 4,
+    "region": "Region C",
+    "yield_tonnes": 144.4,
+    "rainfall_mm": 70.3,
+    "avg_temp_c": 23.7,
+    "drought_index": 2.7,
+    "anomaly": true
+  },
+  {
+    "year": 2023,
+    "month": 4,
+    "region": "Region D",
+    "yield_tonnes": 208.5,
+    "rainfall_mm": 104,
+    "avg_temp_c": 18.7,
+    "drought_index": 2.1,
+    "anomaly": false
+  },
+  {
+    "year": 2023,
+    "month": 5,
+    "region": "Region A",
+    "yield_tonnes": 253.7,
+    "rainfall_mm": 90.2,
+    "avg_temp_c": 23.8,
+    "drought_index": 2.3,
+    "anomaly": false
+  },
+  {
+    "year": 2023,
+    "month": 5,
+    "region": "Region B",
+    "yield_tonnes": 233.5,
+    "rainfall_mm": 105.4,
+    "avg_temp_c": 25.8,
+    "drought_index": 2,
+    "anomaly": false
+  },
+  {
+    "year": 2023,
+    "month": 5,
+    "region": "Region C",
+    "yield_tonnes": 181.5,
+    "rainfall_mm": 80.3,
+    "avg_temp_c": 27.8,
+    "drought_index": 3.3,
+    "anomaly": true
+  },
+  {
+    "year": 2023,
+    "month": 5,
+    "region": "Region D",
+    "yield_tonnes": 263.7,
+    "rainfall_mm": 118.3,
+    "avg_temp_c": 22.8,
+    "drought_index": 2,
+    "anomaly": false
+  },
+  {
+    "year": 2023,
+    "month": 6,
+    "region": "Region A",
+    "yield_tonnes": 286.2,
+    "rainfall_mm": 84,
+    "avg_temp_c": 26.8,
+    "drought_index": 2.8,
+    "anomaly": false
+  },
+  {
+    "year": 2023,
+    "month": 6,
+    "region": "Region B",
+    "yield_tonnes": 263.2,
+    "rainfall_mm": 97.8,
+    "avg_temp_c": 28.7,
+    "drought_index": 2.8,
+    "anomaly": false
+  },
+  {
+    "year": 2023,
+    "month": 6,
+    "region": "Region C",
+    "yield_tonnes": 203.3,
+    "rainfall_mm": 74.6,
+    "avg_temp_c": 30.7,
+    "drought_index": 4,
+    "anomaly": true
+  },
+  {
+    "year": 2023,
+    "month": 6,
+    "region": "Region D",
+    "yield_tonnes": 298.2,
+    "rainfall_mm": 110,
+    "avg_temp_c": 25.7,
+    "drought_index": 2.2,
+    "anomaly": false
+  },
+  {
+    "year": 2023,
+    "month": 7,
+    "region": "Region A",
+    "yield_tonnes": 291.9,
+    "rainfall_mm": 67.6,
+    "avg_temp_c": 28.6,
+    "drought_index": 3.5,
+    "anomaly": false
+  },
+  {
+    "year": 2023,
+    "month": 7,
+    "region": "Region B",
+    "yield_tonnes": 269.8,
+    "rainfall_mm": 78.8,
+    "avg_temp_c": 30.6,
+    "drought_index": 3.5,
+    "anomaly": false
+  },
+  {
+    "year": 2023,
+    "month": 7,
+    "region": "Region C",
+    "yield_tonnes": 206.7,
+    "rainfall_mm": 60,
+    "avg_temp_c": 32.6,
+    "drought_index": 4.7,
+    "anomaly": true
+  },
+  {
+    "year": 2023,
+    "month": 7,
+    "region": "Region D",
+    "yield_tonnes": 306.2,
+    "rainfall_mm": 89.3,
+    "avg_temp_c": 27.6,
+    "drought_index": 2.9,
+    "anomaly": false
+  },
+  {
+    "year": 2023,
+    "month": 8,
+    "region": "Region A",
+    "yield_tonnes": 285.6,
+    "rainfall_mm": 62.1,
+    "avg_temp_c": 27.6,
+    "drought_index": 3.2,
+    "anomaly": false
+  },
+  {
+    "year": 2023,
+    "month": 8,
+    "region": "Region B",
+    "yield_tonnes": 263.8,
+    "rainfall_mm": 72.5,
+    "avg_temp_c": 29.6,
+    "drought_index": 3.2,
+    "anomaly": false
+  },
+  {
+    "year": 2023,
+    "month": 8,
+    "region": "Region C",
+    "yield_tonnes": 202.8,
+    "rainfall_mm": 55.3,
+    "avg_temp_c": 31.6,
+    "drought_index": 4.5,
+    "anomaly": true
+  },
+  {
+    "year": 2023,
+    "month": 8,
+    "region": "Region D",
+    "yield_tonnes": 298.1,
+    "rainfall_mm": 81.3,
+    "avg_temp_c": 26.6,
+    "drought_index": 2.7,
+    "anomaly": false
+  },
+  {
+    "year": 2023,
+    "month": 9,
+    "region": "Region A",
+    "yield_tonnes": 275.8,
+    "rainfall_mm": 64.7,
+    "avg_temp_c": 24.8,
+    "drought_index": 2.3,
+    "anomaly": false
+  },
+  {
+    "year": 2023,
+    "month": 9,
+    "region": "Region B",
+    "yield_tonnes": 253.7,
+    "rainfall_mm": 75.7,
+    "avg_temp_c": 26.8,
+    "drought_index": 2.3,
+    "anomaly": false
+  },
+  {
+    "year": 2023,
+    "month": 9,
+    "region": "Region C",
+    "yield_tonnes": 196.6,
+    "rainfall_mm": 57.6,
+    "avg_temp_c": 28.8,
+    "drought_index": 3.5,
+    "anomaly": true
+  },
+  {
+    "year": 2023,
+    "month": 9,
+    "region": "Region D",
+    "yield_tonnes": 287.6,
+    "rainfall_mm": 85.4,
+    "avg_temp_c": 23.8,
+    "drought_index": 2,
+    "anomaly": false
+  },
+  {
+    "year": 2023,
+    "month": 10,
+    "region": "Region A",
+    "yield_tonnes": 235.9,
+    "rainfall_mm": 67.8,
+    "avg_temp_c": 20.7,
+    "drought_index": 2.4,
+    "anomaly": false
+  },
+  {
+    "year": 2023,
+    "month": 10,
+    "region": "Region B",
+    "yield_tonnes": 217.3,
+    "rainfall_mm": 79.3,
+    "avg_temp_c": 22.7,
+    "drought_index": 1.9,
+    "anomaly": false
+  },
+  {
+    "year": 2023,
+    "month": 10,
+    "region": "Region C",
+    "yield_tonnes": 170.3,
+    "rainfall_mm": 60.4,
+    "avg_temp_c": 24.7,
+    "drought_index": 2.7,
+    "anomaly": true
+  },
+  {
+    "year": 2023,
+    "month": 10,
+    "region": "Region D",
+    "yield_tonnes": 245.2,
+    "rainfall_mm": 89,
+    "avg_temp_c": 19.7,
+    "drought_index": 2.1,
+    "anomaly": false
+  },
+  {
+    "year": 2023,
+    "month": 11,
+    "region": "Region A",
+    "yield_tonnes": 193,
+    "rainfall_mm": 69.8,
+    "avg_temp_c": 16.8,
+    "drought_index": 2.2,
+    "anomaly": false
+  },
+  {
+    "year": 2023,
+    "month": 11,
+    "region": "Region B",
+    "yield_tonnes": 177.4,
+    "rainfall_mm": 81.5,
+    "avg_temp_c": 18.8,
+    "drought_index": 1.8,
+    "anomaly": false
+  },
+  {
+    "year": 2023,
+    "month": 11,
+    "region": "Region C",
+    "yield_tonnes": 139.4,
+    "rainfall_mm": 62.2,
+    "avg_temp_c": 20.8,
+    "drought_index": 2.5,
+    "anomaly": true
+  },
+  {
+    "year": 2023,
+    "month": 11,
+    "region": "Region D",
+    "yield_tonnes": 200.9,
+    "rainfall_mm": 92,
+    "avg_temp_c": 15.8,
+    "drought_index": 1.9,
+    "anomaly": false
+  },
+  {
+    "year": 2023,
+    "month": 12,
+    "region": "Region A",
+    "yield_tonnes": 153.2,
+    "rainfall_mm": 61.9,
+    "avg_temp_c": 13.7,
+    "drought_index": 2.4,
+    "anomaly": false
+  },
+  {
+    "year": 2023,
+    "month": 12,
+    "region": "Region B",
+    "yield_tonnes": 140.9,
+    "rainfall_mm": 72.2,
+    "avg_temp_c": 15.7,
+    "drought_index": 1.9,
+    "anomaly": false
+  },
+  {
+    "year": 2023,
+    "month": 12,
+    "region": "Region C",
+    "yield_tonnes": 110.4,
+    "rainfall_mm": 55,
+    "avg_temp_c": 17.7,
+    "drought_index": 2.7,
+    "anomaly": true
+  },
+  {
+    "year": 2023,
+    "month": 12,
+    "region": "Region D",
+    "yield_tonnes": 159.8,
+    "rainfall_mm": 81.7,
+    "avg_temp_c": 12.7,
+    "drought_index": 2.1,
+    "anomaly": false
+  }
+]
