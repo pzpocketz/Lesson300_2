@@ -47,3 +47,9 @@ React 18, Vite, Recharts, CSS Modules, Phosphor Icons, and Inter via Fontsource.
 ## Accessibility
 
 Controls are keyboard-operable and labeled, chart summaries are available to assistive technology, and reduced-motion preferences are respected. Check contrast and screen-reader behavior when changing colors or chart content.
+
+## Licensing
+
+Project source code is licensed under the MIT License; see [`LICENSE`](LICENSE). The story text in `src/App.jsx` and the fictional dataset in `src/data/harvest.json` are also licensed under CC BY 4.0; see [`LICENSE-CONTENT.md`](LICENSE-CONTENT.md). Third-party dependencies remain under their respective licenses.
+
+Replace the `[Copyright holder]` placeholders in both license notices before publishing.
