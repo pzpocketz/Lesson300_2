@@ -10,11 +10,12 @@
 
 ## 3. Build
 - [x] Set up the project structure and development workflow.
-- [ ] Implement and review the complete data story.
+- [x] Implement the interactive five-chapter data story.
 
 ## 4. Verify
-- [ ] Add and run relevant checks or tests.
-- [ ] Review accessibility, usability, and failure cases where applicable.
+- [x] Run the production build and browser smoke checks for chart filters and responsive layouts.
+- [x] Check keyboard-operable controls and accessible region names.
+- [ ] Run a full axe/Lighthouse and screen-reader audit.
 
 ## 5. Release
 - [x] Document setup and usage in `README.md`.
